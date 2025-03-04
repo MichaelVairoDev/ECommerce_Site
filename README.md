@@ -55,7 +55,7 @@ _Vista detallada de un producto individual_
 1. **Clonar el repositorio**
 
 ```bash
-git clone <url-repositorio>
+git clone https://github.com/MichaelVairoDev/ECommerce_Site.git
 cd ECommerce_Site
 ```
 
